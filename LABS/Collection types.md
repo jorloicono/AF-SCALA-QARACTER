@@ -200,4 +200,3 @@ List.range(1, 10, 2)
 5. Convert the final `ArrayBuffer` into an **immutable List**.
 6. Print the final list using a **for-loop**.
 
-**Would you like me to provide the solution to the exercise or explain the complexity differences between List and Vector?**
